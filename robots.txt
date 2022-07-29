@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://www.naitomasaki.net/sitemap.xml
